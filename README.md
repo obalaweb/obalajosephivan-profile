@@ -1,3 +1,4 @@
+## Profile
 👋 Hello, I'm Obala Joseph Ivan, a passionate FULL Stack Developer with a penchant for crafting robust and scalable web applications. My journey in the realm of technology has been marked by a commitment to innovation and a relentless pursuit of excellence.
 
 💻 As a TALL Stack Developer, my expertise spans the entire technology stack – from crafting dynamic user interfaces with Tailwind CSS and Alpine.js to building powerful backend systems using Laravel and Node.js. I thrive in creating seamless, end-to-end solutions that deliver exceptional user experiences.
